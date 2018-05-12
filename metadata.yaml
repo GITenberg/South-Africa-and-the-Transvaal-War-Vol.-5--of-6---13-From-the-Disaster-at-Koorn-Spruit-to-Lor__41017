@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25997'
     url: http://www.gutenberg.org/2009/agents/25997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41017#South-Africa-and-the-Transvaal-War-Vol.-5--of-6---13-From-the-Disaster-at-Koorn-Spruit-to-Lor_
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2012-10-10'
 gutenberg_type: Text
